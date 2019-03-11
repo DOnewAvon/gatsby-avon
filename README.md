@@ -1,2 +1,1 @@
-# gatsby-avon
-Created with CodeSandbox
+# ReadMe
